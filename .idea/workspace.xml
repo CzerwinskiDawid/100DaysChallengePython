@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02a6c00b-e950-40d3-b4b2-3eb4bc0dbb92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day1/BandNameGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day2/BMICalculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
