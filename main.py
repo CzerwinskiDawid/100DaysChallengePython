@@ -1,4 +1,1 @@
-import random
-
-a = random.randint(1, 100)
-print(a)
+print("Hello guys!")
