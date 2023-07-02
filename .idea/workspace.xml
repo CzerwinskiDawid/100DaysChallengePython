@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02a6c00b-e950-40d3-b4b2-3eb4bc0dbb92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day3/BMI2_0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day3/LeapYear.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day3/LoveCalculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day3/PizzaOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5/AddingEvenNumbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5/AverageHeight.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5/FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5/HighScore.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5/PasswordGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day5/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
