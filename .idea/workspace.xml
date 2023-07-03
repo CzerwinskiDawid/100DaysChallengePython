@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="02a6c00b-e950-40d3-b4b2-3eb4bc0dbb92" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Day5/PasswordGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/PasswordGenerator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day1/BandNameGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/band_name_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/BMICalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/bmi_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/LifeInWeeks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/life_in_weeks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day2/TipCalulator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day2/tip_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3/BMI2_0.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3/bmi2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3/LeapYear.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3/leap_year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3/LoveCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3/love_calculator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day3/PizzaOrder.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3/pizza_order.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5/AddingEvenNumbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/adding_even_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5/AverageHeight.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/average_height.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5/FizzBuzz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/fizz_buzz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5/HighScore.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/high_score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5/PasswordGenerator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/password_generator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +63,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Day5/FizzBuzz.py</url>
+          <url>file://$PROJECT_DIR$/Day5/fizz_buzz.py</url>
           <line>6</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
